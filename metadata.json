@@ -1,0 +1,6 @@
+{
+  "name": "نظام متابعة الأقساط",
+  "description": "تطبيق ويب متكامل باللغة العربية لإدارة ومتابعة الأقساط المالية ومواعيد الدفع، أصحاب المواعيد، الإشعارات، والتقارير المالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
